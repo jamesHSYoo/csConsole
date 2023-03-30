@@ -1,0 +1,15 @@
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/bin/Release/net7.0/ConsoleAppliacation
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/bin/Release/net7.0/ConsoleAppliacation.deps.json
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/bin/Release/net7.0/ConsoleAppliacation.runtimeconfig.json
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/bin/Release/net7.0/ConsoleAppliacation.dll
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/bin/Release/net7.0/ConsoleAppliacation.pdb
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.csproj.AssemblyReference.cache
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.AssemblyInfoInputs.cache
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.AssemblyInfo.cs
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.csproj.CoreCompileInputs.cache
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.dll
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/refint/ConsoleAppliacation.dll
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.pdb
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ConsoleAppliacation.genruntimeconfig.cache
+/Users/hs/Desktop/cs study/application/ConsoleAppliacation/ConsoleAppliacation/obj/Release/net7.0/ref/ConsoleAppliacation.dll
